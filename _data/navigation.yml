@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "About Me"
+    url: "/#-about-me"
+
+  - title: "Educations"
+    url: "/#-educations"
+    
+  - title: "Internships"
+    url: "/#-internships"
+    
+  - title: "News"
+    url: "/#-news"
+    
+  - title: "Honors"
+    url: "/#-honors"
+    
+  - title: "Funding"
+    url: "/#-funding"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Patents"
+    url: "/#-patents"
+
+  - title: "Software"
+    url: "/#-software"
+
+  - title: "Competitions"
+    url: "/#-competitions"
+
+  - title: "My Favorite Music"
+    url: "/#-my-favorite-music"
