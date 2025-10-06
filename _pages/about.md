@@ -83,16 +83,17 @@ redirect_from:
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
+		<li><i>2025</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
+		<li><i>2025</i>: HDU Outstanding Student Cadre</li>
 		<li><i>2025</i>: HDU Star of Innovation</li>
+		<li><i>2025</i>: HDU Outstanding Communist Youth League Member</li>
+		<li><i>2025</i>: HDU-CS Advanced Individual in Innovation and Entrepreneurship</li>
 		<li><i>2025</i>: HDU-CS Top 10 Student</li>
 		<li><i>2025</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
-		<li><i>2025</i>: HDU Outstanding Communist Youth League Member</li>
-		<li><i>2025</i>: HDU Outstanding Student Cadre</li>
-		<li><i>2025</i>: HDU-CS Advanced Individual in Innovation and Entrepreneurship</li>
 		<li><i>2025</i>: HDU "Tailong Star" Scholarship (<strong>CNY 3,000.00</strong>)</li>
 		<li><i>2024</i>: National Scholarship of China (<strong>CNY 10,000.00</strong>)</li>
-		<li><i>2024</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
 		<li><i>2024</i>: HDU-CS "Outstanding Figure" Scholarship (<strong>CNY 2,000.00</strong>)</li>
+		<li><i>2024</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
 		<li><i>2024</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
 	</ul>
 </div>
@@ -110,6 +111,7 @@ redirect_from:
 		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Project Second Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
 		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Project Second Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
 		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Key Member</strong>, <strong>CNY 10,000.00</strong>)</li>
+		<li><i>2025</i>: "Danghong Cup" First Prize for Excellence in Scientific Research and Education Project (<strong>Project Leader</strong>, <strong>CNY 5,000.00</strong>)</li>
 	</ul>
 </div>
 <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
@@ -120,72 +122,16 @@ redirect_from:
 
 ## Conference Papers
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/GL-LCM.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images](https://arxiv.org/abs/2508.03357) [[🧑🏻‍💻 Code]](https://github.com/diaoquesang/GL-LCM) [[🌐 Page]](https://diaoquesang.github.io/GL-LCM-Project-Page/) [[🗒️ Survey]](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays/) [[📜 Poster]](https://raw.githubusercontent.com/diaoquesang/diaoquesang.github.io/main/pdfs/GL-LCM_Poster.pdf)
-
-<b>Yifei Sun</b>, Zhanghao Chen, Hao Zheng, Yuqing Lu, Lixin Duan, Fenglei Fan, Ahmed Elazab, Xiang Wan, Changmiao Wang<sup>†</sup>, Ruiquan Ge<sup>†</sup>
-
-<i>International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI</strong>) 2025</i>
-
-![](https://img.shields.io/badge/Cross--Modal%20Generation-224B8D) ![](https://img.shields.io/badge/Segmentation-224B8D)
-
-</div>
-</div>
-
-
-
-
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	
 <ul>
 
 <li>
-<span class="highlight">BIBM 2025</span> <a href="https://arxiv.org/abs/2509.03214">RTGMFF: Enhanced fMRI-based Brain Disorder Diagnosis via ROI-driven Text Generation and Multimodal Feature Fusion</a> <a href="https://github.com/BeistMedAI/RTGMFF">[🧑🏻‍💻 Code]</a> Junhao Jia, <b>Yifei Sun</b>, Yunyou Liu, Cheng Yang, Changmiao Wang<sup>†</sup>, Feiwei Qin<sup>†</sup>, Yong Peng, Wenwen Min <i>IEEE International Conference on Bioinformatics and Biomedicine (<strong>BIBM</strong>) 2025</i>
+<span class="highlight">BIBM 2025 (Oral)</span> <a href="https://arxiv.org/abs/2509.03214">RTGMFF: Enhanced fMRI-based Brain Disorder Diagnosis via ROI-driven Text Generation and Multimodal Feature Fusion</a> <a href="https://github.com/BeistMedAI/RTGMFF">[🧑🏻‍💻 Code]</a> <b>Junhao Jia</b>, Yifei Sun, Yunyou Liu, Cheng Yang, Changmiao Wang<sup>†</sup>, Feiwei Qin<sup>†</sup>, Yong Peng, Wenwen Min <i>IEEE International Conference on Bioinformatics and Biomedicine (<strong>BIBM</strong>) 2025 (<strong>Oral</strong>)</i>
 </li>
 
 <li>
-<span class="highlight">ISBI 2025 (Oral)</span> <a href="https://ieeexplore.ieee.org/abstract/document/10980706">ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction</a> <a href="https://github.com/justinhxy/ITFC">[🧑🏻‍💻 Code]</a> Xiangyang Hu, Xiangyu Shen, <b>Yifei Sun</b>, Xuhao Shan, Wenwen Min, Liyilei Su, Xiaomao Fan, Ahmed Elazab, Ruiquan Ge<sup>†</sup>, Changmiao Wang<sup>†</sup>, Xiaopeng Fan <i>IEEE International Symposium on Biomedical Imaging (<strong>ISBI</strong>) 2025 (<strong>Oral</strong>)</i>
-</li>
-
-<li>
-<span class="highlight">ISBI 2024 (Oral)</span> <a href="https://ieeexplore.ieee.org/abstract/document/10635371/">BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images</a> <a href="https://github.com/Benny0323/BS-Diff">[🧑🏻‍💻 Code]</a> <a href="https://benny0323.github.io/BS-Diff-Project-Page/">[🌐 Page]</a> <a href="https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays/">[🗒️ Survey]</a> Zhanghao Chen, <b>Yifei Sun</b>, Wenjian Qin, Ruiquan Ge<sup>†</sup>, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang<sup>†</sup> <i>IEEE International Symposium on Biomedical Imaging (<strong>ISBI</strong>) 2024 (<strong>Oral</strong>)</i>
-</li>
-
-<li>
-<span class="highlight">ICSIP 2023</span> <a href="https://ieeexplore.ieee.org/abstract/document/10270849/">RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection</a> Binfeng Zou, Yifei Chen, Zhanghao Chen, <b>Yifei Sun</b>, Yifan Huang, Feiwei Qin<sup>†</sup>, Changmiao Wang <i>International Conference on Signal and Image Processing (<strong>ICSIP</strong>) 2023</i>
-</li>
-
-</ul>
-
-</div>
-
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
-
-## Journal Papers
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='images/BS-LDM.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models](https://ieeexplore.ieee.org/document/11079814) [[🧑🏻‍💻 Code]](https://github.com/diaoquesang/BS-LDM) [[🌐 Page]](https://benny0323.github.io/BS-LDM-Project-Page/) [[🗒️ Survey]](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays/) [[📔 Graph]](https://raw.githubusercontent.com/diaoquesang/diaoquesang.github.io/main/pdfs/BS-LDM_Graph.pdf)
-
-<b>Yifei Sun</b>, Zhanghao Chen, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang<sup>†</sup>, Ruiquan Ge<sup>†</sup>
-
-<i>IEEE Journal of Biomedical and Health Informatics (<strong>JBHI</strong>) 2025</i>
-
-![](https://img.shields.io/badge/Cross--Modal%20Generation-224B8D) ![](https://img.shields.io/badge/Classification-224B8D)
-</div>
-</div>
-
-
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
-	
-<ul>
-	
-<li>
-<span class="highlight">CIBM 2024 (ESI Hot Paper)</span> <a href="https://www.sciencedirect.com/science/article/pii/S0010482524000015">Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases</a> <a href="https://github.com/justlfc03/mfds-detr">[🧑🏻‍💻 Code]</a> Yifei Chen, Chenyan Zhang, Ben Chen, Yiyu Huang, <b>Yifei Sun</b>, Changmiao Wang<sup>†</sup>, Xianjun Fu, Yuxing Dai, Feiwei Qin<sup>†</sup>, Yong Peng, Yu Gao <i>Computers in Biology and Medicine (<strong>CIBM</strong>) 2024 (<strong>ESI Hot Paper</strong>)</i>
+<span class="highlight">DLCV 2025 (Oral)</span> <a href="https://ieeexplore.ieee.org/abstract/document/11088700/">MMAFN: Multi-Modal Attention Fusion Network for Attention-Deficit Hyperactivity Disorder Classification <b>Junhao Jia</b>, Ruoyu Liang, Yi Ding, Chi Zhang, Yangming Li, Changmiao Wang<sup>†</sup>, Feiwei Qin, Guodao Zhang, Xinjun Miao, Ahmed Elazab, Zhu Zhu <i>IEEE International Conference on Deep Learning and Computer Vision (<strong>DLCV</strong>) 2025 (<strong>Oral</strong>)</i>
 </li>
 
 </ul>
