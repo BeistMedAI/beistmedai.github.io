@@ -71,13 +71,12 @@ redirect_from:
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
-		<li><i>2025.05</i>: &nbsp;🎉🎉 Our paper for <a href="https://biod.whu.edu.cn/bibm2025">BIBM 2025</a> was selected for <strong>Oral Presentation</strong>!</li>
+		<li><i>2025.10</i>: &nbsp;🎉🎉 Our paper for <a href="https://biod.whu.edu.cn/bibm2025">BIBM 2025</a> was selected for <strong>Oral Presentation</strong>!</li>
 		<li><i>2025.10</i>: &nbsp;🎉🎉 Our new paper for <a href="https://biod.whu.edu.cn/bibm2025">BIBM 2025</a> was <strong>Accepted</strong>!</li>
 		<li><i>2025.05</i>: &nbsp;🎉🎉 Our paper for <a href="https://biomedicalimaging.org/2025">DLCV 2025</a> was selected for <strong>Oral Presentation</strong>!</li>
 		<li><i>2025.02</i>: &nbsp;🎉🎉 Our new paper for <a href="https://biod.whu.edu.cn/bibm2025">DLCV 2025</a> was <strong>Accepted</strong>!</li>
 	</ul>
 </div>
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
 
 # 🏅 Honors
 
@@ -97,7 +96,6 @@ redirect_from:
 		<li><i>2024</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
 	</ul>
 </div>
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
 
 
 # 💰 Funding
@@ -114,7 +112,6 @@ redirect_from:
 		<li><i>2025</i>: "Danghong Cup" First Prize for Excellence in Scientific Research and Education Project (<strong>Project Leader</strong>, <strong>CNY 5,000.00</strong>)</li>
 	</ul>
 </div>
-<div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
 
 # 💡 Publications
 
