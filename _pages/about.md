@@ -19,20 +19,17 @@ redirect_from:
 
 # 😉 About Me
 
-🌱 Hi, I'm a 4th-year undergraduate student studying **Computer Science and Technology** at <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and <img src="https://github.com/user-attachments/assets/18a69d12-eb7f-4b74-af92-4050d7f12382" style="width: 1em;"> [ITMO University](https://en.itmo.ru), supervised by [Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505). I'm also an incoming PhD student studying **Computer Science and Technology** at <img src="https://github.com/user-attachments/assets/6f365bf4-e50c-41d9-a569-3a0f71bba898" style="width: 1em;"> [Zhejiang University](https://www.zju.edu.cn), supervised by [Jian Wu (吴健)](https://person.zju.edu.cn/0004274).
+🌱 Hi, I'm a 4th-year undergraduate student studying **Computer Science and Technology** at <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and <img src="https://github.com/user-attachments/assets/18a69d12-eb7f-4b74-af92-4050d7f12382", supervised by [Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) and [Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505). 
 
+🔭 I'm currently focused on **Explainable AI (XAI)**, **Interpretable Computer Vision**, and **Medical Image Analysis**.
 
-🔭 I'm currently focused on **Medical Image Analysis**, **Computer Vision**, and **Generative AI**.
-
-🔖 Academic Services: Conference Reviewers of **AAAI**<sub>[2026](https://aaai.org/conference/aaai/aaai-26/)</sub>, **ACM MM**<sub>[2025](https://acmmm2025.org/)</sub>; Journal Reviewers of [**EAAI**](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
-
-📫 How to reach me: [diaoquesang@gmail.com](mailto:diaoquesang@gmail.com).
+📫 How to reach me: [23080631@hdu.edu.cn](23080631@hdu.edu.cn).
 
 
 
 <a href='https://scholar.google.com/citations?user=4anytcgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-[![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang)](https://github.com/diaoquesang)
-[![GitHub followers](https://img.shields.io/github/followers/diaoquesang)](https://github.com/diaoquesang)
+[![GitHub User's stars](https://img.shields.io/github/stars/BeistMedAI)](https://github.com/BeistMedAI)
+[![GitHub followers](https://img.shields.io/github/followers/BeistMedAI)](https://github.com/BeistMedAI)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
 
 <div style="margin-top: 30px;"></div>
@@ -56,31 +53,13 @@ redirect_from:
 
 # 📖 Educations
 
-<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/4a96ec08-666c-493e-9a03-7962a47204f4' width="20%" style="margin: 15px 10px 15px 10px;">
-	<ul style="margin-top: 15px;">
-		<li>Incoming PhD Student: Computer Science and Technology, <img src="https://github.com/user-attachments/assets/6f365bf4-e50c-41d9-a569-3a0f71bba898" style="width: 1em;"> <a href="https://www.zju.edu.cn">Zhejiang University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://person.zju.edu.cn/0004274">Jian Wu (吴健)</a></li>
-	</ul>
-</div>
-
 <div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/fed68c18-ae52-48d1-9c45-703a3555f77a' width="20%" style="margin: 15px 10px 15px 10px;">
 	<ul style="margin-top: 15px;">
-		<li><i>2022.08 - Present</i>, Undergraduate Student: Computer Science and Technology, <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Ruiquan Ge (葛瑞泉)</a></li>
-	</ul>
-</div>
-
-<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/caa9f769-f2fd-482c-aaa5-f9e9d0acc67f' width="20%" style="margin: 15px 10px 15px 10px;">
-	<ul style="margin-top: 15px;">
-		<li><i>2022.08 - Present</i>, Undergraduate Student: Computer Science and Technology, <img src="https://github.com/user-attachments/assets/18a69d12-eb7f-4b74-af92-4050d7f12382" style="width: 1em;"> <a href="https://en.itmo.ru">ITMO University</a>, Saint Petersburg, <img src="https://github.com/user-attachments/assets/531eb26c-e11d-4df8-98c1-46155587da4a" style="width: 1em;"> Russia</li>
+		<li><i>2023.09 - Present</i>, Undergraduate Student: Computer Science and Technology, <img src="https://github.com/user-attachments/assets/49def03c-2f58-4c37-88d8-edb2c7ea9e9f" style="width: 1em;"> <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm">Feiwei Qin (秦飞巍)</a></li>
 	</ul>
 </div>
 
 # 💻 Internships
-
-<div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/e67acd1f-481c-4732-9fa8-c45a1ba373b7' width="20%" style="margin: 15px 10px 15px 10px;">
-	<ul style="margin-top: 15px;">
-		<li><i>2025.03 - Present</i>, Research Intern: <img src="https://github.com/user-attachments/assets/d30e6690-19ad-4537-8871-95a3dea2c0f0" style="width: 1em;"> <a href="http://realdoctor.zju.edu.cn/index/">Real Doctor AI Research Center</a>, <img src="https://github.com/user-attachments/assets/6f365bf4-e50c-41d9-a569-3a0f71bba898" style="width: 1em;"> <a href="https://www.zju.edu.cn/">Zhejiang University</a>, Hangzhou, <img src="https://github.com/user-attachments/assets/a42db054-f18d-4b2b-aac7-2fbf024610dd" style="width: 1em;"> China, Supervised by <a href="https://person.zju.edu.cn/0004274">Jian Wu (吴健)</a></li>
-	</ul>
-</div>
 
 <div style="display: flex; align-items: center;"><img src='https://github.com/user-attachments/assets/b105cced-5a82-4710-8570-0aaa7ffdb68e' width="20%" style="margin: 15px 10px 15px 10px;">
 	<ul style="margin-top: 15px;">
@@ -111,26 +90,17 @@ redirect_from:
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
-		<li><i>2025</i>: HDU Top 10 Student Candidate</li>
 		<li><i>2025</i>: HDU Star of Innovation</li>
-		<li><i>2025</i>: HDU-ITMO Top 10 Student</li>
+		<li><i>2025</i>: HDU-CS Top 10 Student</li>
 		<li><i>2025</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
-		<li><i>2025</i>: HDU Outstanding Communist Youth League Cadre</li>
-		<li><i>2025</i>: HDU Outstanding Student Union Cadre</li>
+		<li><i>2025</i>: HDU Outstanding Communist Youth League Member</li>
+		<li><i>2025</i>: HDU Outstanding Student Cadre</li>
+		<li><i>2025</i>: HDU-CS Advanced Individual in Innovation and Entrepreneurship</li>
+		<li><i>2025</i>: HDU "Tailong Star" Scholarship (<strong>CNY 3,000.00</strong>)</li>
 		<li><i>2024</i>: National Scholarship of China (<strong>CNY 10,000.00</strong>)</li>
-		<li><i>2024</i>: HDU-ITMO Star of Scientific Research and Innovation</li>
-		<li><i>2024</i>: HDU-ITMO Star of Academic Excellence</li>
-		<li><i>2024</i>: HDU-ITMO Star of Service and Management</li>
 		<li><i>2024</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
-		<li><i>2024</i>: HDU-ITMO Star of Scientific and Technological Innovation</li>
-		<li><i>2024</i>: HDU Star of Innovation Candidate</li>
+		<li><i>2024</i>: HDU-CS "Outstanding Figure" Scholarship (<strong>CNY 2,000.00</strong>)</li>
 		<li><i>2024</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
-		<li><i>2024</i>: HDU-ITMO Top 10 Student</li>
-		<li><i>2023</i>: Zhejiang Provincial Government Scholarship (<strong>CNY 6,000.00</strong>)</li>
-		<li><i>2023</i>: HDU Merit Student</li>
-		<li><i>2023</i>: HDU First-Class Scholarship (<strong>CNY 1,500.00</strong>)</li>
-		<li><i>2023</i>: HDU First-Class Scholarship(<strong>CNY 1,500.00</strong>)</li>
-		<li><i>2022</i>: HDU Advanced Individual in Student Military Training Publicity Work</li>
 	</ul>
 </div>
 <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
@@ -140,13 +110,13 @@ redirect_from:
 
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
-		<li><i>2025</i>: National Undergraduate Innovation and Entrepreneurship Training Program of China (<strong>Key Support Field Program</strong>, <strong>Key Member</strong>, <strong>CNY 20,000.00</strong>)</li>
+		<li><i>2025</i>: National Undergraduate Innovation and Entrepreneurship Training Program of China (<strong>Key Support Field Program</strong>, <strong>Project Leader</strong>, <strong>CNY 20,000.00</strong>)</li>
+		<li><i>2025</i>: National Undergraduate Innovation and Entrepreneurship Training Program of China (<strong>Project Second Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
+		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Project Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
+		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Project Second Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
+		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Project Second Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
+		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Project Second Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
 		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Key Member</strong>, <strong>CNY 10,000.00</strong>)</li>
-		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Key Member</strong>, <strong>CNY 10,000.00</strong>)</li>
-		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Key Member</strong>, <strong>CNY 10,000.00</strong>)</li>
-		<li><i>2025</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Key Member</strong>, <strong>CNY 10,000.00</strong>)</li>
-		<li><i>2024</i>: National Undergraduate Innovation and Entrepreneurship Training Program of China (<strong>Early Completion</strong>, <strong>Project Leader</strong>, <strong>CNY 10,000.00</strong>)</li>
-		<li><i>2024</i>: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (<strong>Key Member</strong>, <strong>CNY 10,000.00</strong>)</li>
 	</ul>
 </div>
 <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div>
